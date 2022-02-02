@@ -9,3 +9,7 @@ Personal collection of GSAP 3 effects for learning purposes
 ## Hover effects
 
 -   <https://codepen.io/snorkltv/pen/WNZLoNg>
+
+## ScrollTrigger
+
+- https://codepen.io/jshikanova/pen/XWMKLzr
