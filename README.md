@@ -12,4 +12,4 @@ Personal collection of GSAP 3 effects for learning purposes
 
 ## ScrollTrigger
 
-- https://codepen.io/jshikanova/pen/XWMKLzr
+- https://codepen.io/jshikanova/pen/XWMKLzr (https://shakuro.com/blog/greensock-tutorial-for-beginners-web-animation-library)
