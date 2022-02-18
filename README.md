@@ -1,6 +1,6 @@
-# Cool GSAP 3 Animations
+# Cool Animations
 
-Personal collection of GSAP 3 effects for learning purposes
+Personal collection of effects for learning purposes
 
 ## Menu animations
 
@@ -13,3 +13,7 @@ Personal collection of GSAP 3 effects for learning purposes
 ## ScrollTrigger
 
 - https://codepen.io/jshikanova/pen/XWMKLzr (https://shakuro.com/blog/greensock-tutorial-for-beginners-web-animation-library)
+
+# Framer motion
+
+-  https://codesandbox.io/s/framer-motion-split-text-o1r7d
