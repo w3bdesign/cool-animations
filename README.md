@@ -2,6 +2,8 @@
 
 Personal collection of effects for learning purposes
 
+# GSAP 3
+
 ## Menu animations
 
 -   <https://greensock.com/forums/topic/27273-image-reveal-from-bottom-to-top/?do=findComment&comment=133520>
